@@ -6,3 +6,12 @@ git commit -m ""
 
 
 evolution des commandes
+
+git checkout 
+git branch -M main
+
+git remote add origin https://github.com/Alan-Ag/repo_test.git
+git remote show
+git remote show origin
+
+git push -u origin main
